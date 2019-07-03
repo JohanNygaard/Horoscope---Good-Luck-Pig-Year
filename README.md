@@ -26,3 +26,4 @@ Supported Horoscopes -
 * Shareability
 
 We are just developing, but we will try to improve and become better and better, write your suggestions in feedback and be with us!
+If you encounter any problems during use, you can give us feedback: jsonkeny@gmail.com
